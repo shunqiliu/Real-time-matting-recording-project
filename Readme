@@ -14,7 +14,7 @@ Users need send the serial number in first interface to author to get access by 
 #### Prepare Recording Interface
 #### Recording Interface
 ## For developers
-The platform of this project is Visual Studio 2019 and Qt 5. Coded by C++, with OpenCV.
+The platform of this project is Visual Studio 2019 and Qt 5. Coded by C++, with OpenCV. All open source files are in code file.
 ### Interface file
 MainWindow.ui: Main Menue.
 ssy.ui: Prepare Recording Interface.
