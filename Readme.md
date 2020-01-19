@@ -13,6 +13,7 @@ Click start.exe to startup program
 ### Operation guide
 Users need send the serial number in first interface to author to get access by email: 644602967@qq.com.
 #### Main Menue
+![image](https://github.com/shunqiliu/Real-time-matting-recording-project/blob/master/illustration/Main%20menue.jpg)
 #### Prepare Recording Interface
 #### Recording Interface
 ## For developers
