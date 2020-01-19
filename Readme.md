@@ -3,11 +3,13 @@ Matting program for pure color background. With functions: Editing screen logo, 
 ## Downloads
 .exe for Windows 10 x64 in release file.
 ### Installation
-Configure ffmpeg to PC.
+Download an Configure ffmpeg to PC from internet.
 
 Put "vasource" and "testresult" to D:\.
 
-Click .exe to startup program
+Run vc_redist.x64.exe.
+
+Click start.exe to startup program
 ### Operation guide
 Users need send the serial number in first interface to author to get access by email: 644602967@qq.com.
 #### Main Menue
