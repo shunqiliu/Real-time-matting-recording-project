@@ -5,7 +5,7 @@ Matting program for pure color background. With functions: Editing screen logo, 
 ### Installation
 Download an Configure ffmpeg to PC from internet.
 
-Put "vasource" and "testresult" to D:\.
+Put "vasource" and "testresult" to D:\\.
 
 Run vc_redist.x64.exe.
 
