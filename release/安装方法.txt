@@ -1,6 +1,0 @@
-
-
-1.运行vc_redist.x64.exe
-2.把vasource和testresult两个文件夹放到D盘根目录
-3.把bin里面的文件放到C:\Windows\system32
-4.设置开机自动启动：给teach sys.exe创建快捷方式。win+R键，输入”shell:startup“，把快捷方式拷贝进去。
