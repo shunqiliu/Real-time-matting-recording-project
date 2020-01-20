@@ -1,7 +1,7 @@
 # Real Time Matting Recording Project
 Matting program for pure color background. With functions: Editing screen logo, subtitle, host Icon, and recording. Also with generating serial number according to network card information to encrypt program permission.
 ## Illustrations
-![image](https://github.com/shunqiliu/Real-time-matting-recording-project/blob/master/illustration/Main menue.jpg)
+![image](https://github.com/shunqiliu/Real-time-matting-recording-project/blob/master/illustration/mm.jpg)
 ![image](https://github.com/shunqiliu/Real-time-matting-recording-project/blob/master/illustration/Prepare Recording Interface-1.jpg)
 ![image](https://github.com/shunqiliu/Real-time-matting-recording-project/blob/master/illustration/Prepare Recording Interface-2.jpg)
 ![image](https://github.com/shunqiliu/Real-time-matting-recording-project/blob/master/illustration/Recording Interface.jpg)
