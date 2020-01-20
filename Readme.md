@@ -1,5 +1,10 @@
 # Real Time Matting Recording Project
 Matting program for pure color background. With functions: Editing screen logo, subtitle, host Icon, and recording. Also with generating serial number according to network card information to encrypt program permission.
+## Illustrations
+![image](https://github.com/shunqiliu/Real-time-matting-recording-project/blob/master/illustration/Main menue.jpg)
+![image](https://github.com/shunqiliu/Real-time-matting-recording-project/blob/master/illustration/Prepare Recording Interface-1.jpg)
+![image](https://github.com/shunqiliu/Real-time-matting-recording-project/blob/master/illustration/Prepare Recording Interface-2.jpg)
+![image](https://github.com/shunqiliu/Real-time-matting-recording-project/blob/master/illustration/Recording Interface.jpg)
 ## Downloads
 .exe for Windows 10 x64 in release file.
 ### Installation
@@ -13,9 +18,12 @@ Click start.exe to startup program
 ### Operation guide
 Users need send the serial number in first interface to author to get access by email: 644602967@qq.com.
 #### Main Menue
-![image](https://github.com/shunqiliu/Real-time-matting-recording-project/blob/master/illustration/Main%20menue.jpg)
+![image](https://github.com/shunqiliu/Real-time-matting-recording-project/blob/master/illustration/mm.jpg)
 #### Prepare Recording Interface
+![image](https://github.com/shunqiliu/Real-time-matting-recording-project/blob/master/illustration/pr.jpg)
+![image](https://github.com/shunqiliu/Real-time-matting-recording-project/blob/master/illustration/pr2.jpg)
 #### Recording Interface
+![image](https://github.com/shunqiliu/Real-time-matting-recording-project/blob/master/illustration/r.jpg)
 ## For developers
 The platform of this project is Visual Studio 2019 and Qt 5. Coded by C++, with OpenCV. All open source files are in code file.
 ### Interface file
