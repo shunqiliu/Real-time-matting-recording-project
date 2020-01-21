@@ -34,7 +34,9 @@ MainWindow.ui: Main Menue.
 ssy.ui: Prepare Recording Interface.
 ### Code file
 main.cpp: Qt main file.
+
 MainWindow.cpp/h:  Encrypt; Main menue interface; Preview HDMI frame; View recorded files; Shut down/Restart.
+
 ssy.cpp/h: Recording; Matting; Frame operations.
 
 Recording used dxgi, developers can include this from internet.
