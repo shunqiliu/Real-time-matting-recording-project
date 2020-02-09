@@ -43,3 +43,4 @@ Recording used dxgi, developers can include this from internet.
 
 ## Notice
 The input signal (camera, HDMI) must be HD source (1920x1080), or the screen will show you that there is no signal!
+
